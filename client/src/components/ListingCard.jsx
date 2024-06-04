@@ -120,7 +120,7 @@ const ListingCard = ({
             {startDate} - {endDate}
           </p>
           <p>
-            <span>$₹{totalPrice}</span> total
+            <span>₹{totalPrice}</span> total
           </p>
         </>
       )}
