@@ -1,5 +1,14 @@
 To start the project fork the project and  cd server then type command start run again client folder by cd client and type npm start 
-project will start 
+project will start
+while in client dir while running npm start if it says this
+client@0.1.0 start
+> react-scripts start
+
+'react-scripts' is not recognized as an internal or external command,
+operable program or batch file. 
+just run 
+npm install react-scripts --save
+in client folder it will fix it
 
 Features of this Project
 Register Page:
